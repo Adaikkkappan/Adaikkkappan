@@ -8,6 +8,7 @@
 ## Connect with me
 - Gmail: roshanadaikkappan94@gmail.com
 - LinkedIn: https://www.linkedin.com/in/adaikkappan-a-812275a2/
-
+- Sololearn: https://www.sololearn.com/profile/25987411
+- Hackerrank: https://www.hackerrank.com/roshanadaikkapp1
 
 Check out my projects
